@@ -1,1 +1,2 @@
 First line.
+this line will trigger a merge conflict
