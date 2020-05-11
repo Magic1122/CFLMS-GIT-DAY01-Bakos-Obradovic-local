@@ -1,2 +1,4 @@
 First line.
 Vedrana's line.
+this line will trigger a merge conflict
+
